@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Najimdeen from Nigeria<br><br>- 📚 I'm currently learning Cyber Security<br>- 🎯 Goals: live in cool life<br>- ⚡ In my free time I play games</p>
+<p align="left">My name is Najimdeen from Nigeria<br><br>- 📚 I'm currently learning Cyber Security<br>- 🎯 Goals: live a cool life<br>- ⚡ In my free time I play games</p>
 
 ###
 
