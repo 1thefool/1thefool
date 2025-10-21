@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Cyber Security<br>- ⚡ In my free time I like to play games</p>
+<p align="left">- 📚 I'm currently learning Cyber Security<br>- ⚡ In my free time I like to play games. Also wanna learn Japanese</p>
 
 ###
 
